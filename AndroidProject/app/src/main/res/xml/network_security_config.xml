@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">cyberservice-96805b7c1a96.herokuapp.com</domain>
+        <domain includeSubdomains="true">cyberservice-96805b7c1a96.herokuapp.com/login</domain>
+        <domain includeSubdomains="true">cyberservice-96805b7c1a96.herokuapp.com/registration</domain>
+    </domain-config>
+</network-security-config>
